@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Assi.SlugifyExtension")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Slug: is the part of an URL which identifies a page using human-readable keywords.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("ramiassi")]
 [assembly: AssemblyProduct("Assi.SlugifyExtension")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]

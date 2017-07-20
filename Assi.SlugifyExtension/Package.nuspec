@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Assi.SlugifyExtension</id>
+    <version>1.0.0</version>
+	<title>$title$</title>
+    <authors>ramiassi</authors>
+    <owners>Rami Assi</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl>https://github.com/ramiassi/Assi.SlugifyExtension</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Slug: is the part of an URL which identifies a page using human-readable keywords.
+      This extension for string type adds the Slugify method for generating slugs from any language. This extension method is useful for SEO friendly Urls.
+      Usage examples:
+      "Hello World!".Slugify(); // hello-world
+      "مرحبا بالعالم!".Slugify(); // مرحبا-بالعالم
+      "Merhaba dünya!".Slugify(); // merhaba-dunya
+    </description>
+    <releaseNotes>This extension for string type adds the Slugify method for generating slugs from any language.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>URL Slug SEO Slugify Web</tags>
+    <dependencies>
+      <dependency id=".NETFramework" version="4.0" />
+    </dependencies>
+  </metadata>
+</package>
